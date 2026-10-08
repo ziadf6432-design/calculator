@@ -1,9 +1,7 @@
-# python calculator
-simple calculator built with python
+# AUTOMATION
+automating report generation
 ## features
-- addition
-- subtraction
-- multiply
-- division
+- python script
+- maian exucation
 ## language
 - python

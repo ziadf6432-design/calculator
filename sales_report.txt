@@ -1,0 +1,2 @@
+Total Sales: 1892.75
+Average Sales: 189.275
